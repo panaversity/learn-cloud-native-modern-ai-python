@@ -1,6 +1,6 @@
 # Learn Cloud Native Modern Python
 
-This repo is part of the [Certified Cloud Native Applied Generative AI Engineer]() program. It covers the first quater of the course work:
+This repo is part of the [Certified Cloud Native Applied Generative AI Engineer](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing) program. It covers the first quater of the course work:
 
 ## Quarter 1: Fundamentals of Prompt Engineering, Docker, GitHub, and Modern Python Programming
 
