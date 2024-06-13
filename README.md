@@ -28,7 +28,7 @@ We will be doing all our Python development inside Docker Containers.
 
 Students will be using GitHub from day one. 
 
-### Reading Material
+### Study Material
 
 [Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
 
