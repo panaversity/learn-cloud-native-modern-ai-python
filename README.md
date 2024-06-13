@@ -8,7 +8,7 @@ We begin the course by understanding the basics of GenAI and Prompt Engineering.
 
 Note:
 
-Docker has market share of 82.63% in containerization market. Gartner® estimates that “90% of global organizations will be running containerized applications in production by 2026.
+Docker has market share of 82.63% in containerization market. Gartner® estimates that 90% of global organizations will be running containerized applications in production by 2026.
 
 ### Tools to Install
 
