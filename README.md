@@ -22,7 +22,11 @@ Docker has market share of 82.63% in containerization market. Gartner® estimate
 
 [GitHub Desktop](https://desktop.github.com/)
 
-Note: We will be doing all our Python development inside Docker Containers
+Notes: 
+
+We will be doing all our Python development inside Docker Containers. 
+
+Students will be using GitHub from day one. 
 
 ### Reading Material
 
@@ -43,5 +47,7 @@ Note: We will be doing all our Python development inside Docker Containers
 [mypy documentation](https://mypy.readthedocs.io/en/stable/index.html)
 
 [Type hints cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
+
+[Poetry](https://python-poetry.org/)
 
 Note: We will be using Type Hints is all our Python Development.
