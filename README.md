@@ -6,15 +6,19 @@ This repo is part of the [Certified Cloud Native Applied Generative AI Engineer]
 
 We begin the course by understanding the basics of GenAI and Prompt Engineering. Then we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. The main focus will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI.
 
+Note:
+
+Docker has market share of 82.63% in containerization market. Gartner® estimates that “90% of global organizations will be running containerized applications in production by 2026.
+
 ### Tools to Install
 
 [VS Code](https://code.visualstudio.com/)
 
+[Docker Desktop](https://www.docker.com/products/docker-desktop/)
+
 [Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers)
 
 [Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
-
-[Docker Desktop](https://www.docker.com/products/docker-desktop/)
 
 [GitHub Desktop](https://desktop.github.com/)
 
