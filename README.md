@@ -50,4 +50,6 @@ Students will be using GitHub from day one.
 
 [Poetry](https://python-poetry.org/)
 
+[Streamlit: A faster way to build and share data apps](https://streamlit.io/)
+
 Note: We will be using Type Hints is all our Python Development.
