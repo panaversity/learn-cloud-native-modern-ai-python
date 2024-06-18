@@ -22,11 +22,15 @@ Docker has market share of 82.63% in containerization market. Gartner® estimate
 
 [GitHub Desktop](https://desktop.github.com/)
 
+[Ubuntu Image to Learn Linux](https://hub.docker.com/_/ubuntu)
+
 Notes: 
 
-We will be doing all our Python development inside Docker Containers. 
+1. We will be doing all our Python development inside Docker Containers. 
+2. Students will be using GitHub from day one.
+3. We are using Ubuntu from start, latter we will also be use it to learn robotics. 
 
-Students will be using GitHub from day one. 
+
 
 ### Study Material
 
