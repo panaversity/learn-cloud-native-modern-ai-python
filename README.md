@@ -57,3 +57,7 @@ Notes:
 [Streamlit: A faster way to build and share data apps](https://streamlit.io/)
 
 Note: We will be using Type Hints is all our Python Development.
+
+### Projects
+
+[The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
