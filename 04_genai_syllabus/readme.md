@@ -1,4 +1,4 @@
-# Generative AI Syllabus and FAQ
+# Generative AI Syllabus and FAQs
 
 **[Watch Personal AI Video: IQ, EQ, and AQ](https://www.facebook.com/share/r/FnWHoVjkQXKRSiRy/?mibextid=0VwfS7)**
 
