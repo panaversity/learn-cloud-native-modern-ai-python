@@ -4,13 +4,17 @@ This repo is part of the [Certified Cloud Native Applied Generative AI Engineer]
 
 ## Quarter 1: Fundamentals of Prompt Engineering, Docker, GitHub, and Modern Python Programming
 
-We begin the course by understanding the basics of GenAI and Prompt Engineering. Then we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. The main focus will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI.
+We begin the course by understanding the basics of GenAI and Prompt Engineering. Then we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. The main focus will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI. **We will be using ChatGPT extensively as our Personal Python Coding Mentor**.
 
 Note:
 
 Docker has market share of 82.63% in containerization market. Gartner® estimates that 90% of global organizations will be running containerized applications in production by 2026.
 
 ### Tools to Install
+
+[Install ChatGPT on Your Mobile and Desktop](https://openai.com/chatgpt/download/)
+
+Currently it is not availble for Windows. Therefore, use the [web](https://chatgpt.com/) version on Windows for now. 
 
 [VS Code](https://code.visualstudio.com/)
 
@@ -23,6 +27,7 @@ Docker has market share of 82.63% in containerization market. Gartner® estimate
 [GitHub Desktop](https://desktop.github.com/)
 
 [Ubuntu Image to Learn Linux](https://hub.docker.com/_/ubuntu)
+
 
 Notes: 
 
