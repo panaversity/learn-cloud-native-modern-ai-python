@@ -1,0 +1,12 @@
+.DS_Store
+
+__pycache__/
+*.pyc
+
+*_env/
+.venv*/
+
+online_resources_site/site/
+
+*.sqlite3
+
