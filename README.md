@@ -43,7 +43,7 @@ Notes:
 
 [Docker Desktop](https://docs.docker.com/desktop/)
 
-[Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton-ebook/dp/B01LXWQUFF/ref=sr_1_1)
+[Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1916585256/ref=sr_1_1_sspa)
 
 [Docker Cheat Sheet: All the Most Essential Commands in One Place + Downloadable PDF](https://www.hostinger.com/tutorials/docker-cheat-sheet)
 
