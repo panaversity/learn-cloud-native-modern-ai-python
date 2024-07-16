@@ -8,4 +8,4 @@ Currently it is not availble for Windows. Therefore, use the [web](https://chatg
 
 [ChatGPT 4o Announcement](https://openai.com/index/gpt-4o-and-more-tools-to-chatgpt-free/)
 
-**Llama 3 Intalled Automatically with Whatsapp**
+**Llama 3 Installed Automatically with Whatsapp**
