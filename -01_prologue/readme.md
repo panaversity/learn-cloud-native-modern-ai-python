@@ -6,9 +6,9 @@
 
 [How do you know someone is very smart? Here are 15 'subtle signs' people notice](https://www.upworthy.com/how-do-you-know-someone-is-very-smart-here-are-15-subtle-signs-people-notice)
 
-## AI and Cloud-Native Developer Qualities and Skills
+## Applied Generative AI and Cloud-Native Developer Qualities and Skills
 
-An AI and cloud-native developer possesses a unique blend of skills and qualities that enable them to create, deploy, and manage intelligent applications within cloud environments. Here are the key qualities and skills such a developer should have:
+An Applied GenAI and cloud-native developer possesses a unique blend of skills and qualities that enable them to create, deploy, and manage intelligent applications within cloud environments. Here are the key qualities and skills such a developer should have:
 
 ### Technical Skills
 
@@ -20,7 +20,7 @@ An AI and cloud-native developer possesses a unique blend of skills and qualitie
 
 2. **AI and Machine Learning Knowledge**
    - **Algorithms**: Understanding of machine learning algorithms, deep learning, neural networks, and natural language processing (NLP).
-   - **Model Development**: Experience in developing, training, and fine-tuning AI models.
+   - **Fine Tunning LLMs**: Fine-tuning AI models like ChatGPT, Gemini, and open source like Llama.
 
 3. **Cloud Computing Expertise**
    - **Cloud Platforms**: Proficiency in using Open Source cloud platforms like Kubernetes, Kafka, and AI Powered Severless Platforms like Azure Container Apps (AKA).
