@@ -1,0 +1,13 @@
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: PythonCNAILocal
+    volumes:
+        - .:/code  # Sync local development directory with the container
+
+networks:
+  default:
+    driver: bridge
