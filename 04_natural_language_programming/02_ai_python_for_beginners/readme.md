@@ -49,31 +49,30 @@ print_llm_response("What is the capital of France?")```
 
 ### Course 1: Basics
 
-- L4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_4/Lesson_4.ipynb)
+- L4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_4/Lesson_4.ipynb)
 
-- L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_6/Lesson_6.ipynb)
+- L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_6/Lesson_6.ipynb)
 
-- L7: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_7/Lesson_7.ipynb)
+- L7: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_7/Lesson_7.ipynb)
 
-- L8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_8/Lesson_8.ipynb)
+- L8: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_8/Lesson_8.ipynb)
 
-- L9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_9/Lesson_9.ipynb)
+- L9: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_9/Lesson_9.ipynb)
 
-- L10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_10/Lesson_10.ipynb)
+- L10: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course1_basics/Lesson_10/Lesson_10.ipynb)
 
 ### Course 2: Automating Tasks
 
-- L1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_1/Lesson_1.ipynb)
+- L1: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_1/Lesson_1.ipynb)
 
-- L2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_2/Lesson_2.ipynb)
+- L2: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_2/Lesson_2.ipynb)
 
-- L3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_3/Lesson_3.ipynb)
+- L3: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_3/Lesson_3.ipynb)
 
-- L4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_4/Lesson_4.ipynb)
+- L4: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_4/Lesson_4.ipynb)
 
-- L5: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_5/Lesson_5.ipynb)
+- L5: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_5/Lesson_5.ipynb)
 
-- L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_6/Lesson_6.ipynb)
+- L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_6/Lesson_6.ipynb)
 
-- L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/07_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_7/Lesson_7.ipynb)
-
+- L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_7/Lesson_7.ipynb)
