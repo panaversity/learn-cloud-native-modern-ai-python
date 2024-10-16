@@ -75,4 +75,4 @@ print_llm_response("What is the capital of France?")```
 
 - L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_6/Lesson_6.ipynb)
 
-- L6: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_7/Lesson_7.ipynb)
+- L7: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/panaversity/learn-cloud-native-modern-ai-python/blob/main/04_natural_language_programming/02_ai_python_for_beginners/course2_automating_tasks/Lesson_7/Lesson_7.ipynb)
