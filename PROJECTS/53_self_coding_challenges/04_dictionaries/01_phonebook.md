@@ -28,7 +28,7 @@ def read_phone_numbers():
     while True:
         name = input("Name: ")
         if name == "":
-            break
+            return
         number = input("Number: ")
         phonebook[name] = number
 
