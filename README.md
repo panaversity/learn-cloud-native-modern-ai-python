@@ -6,6 +6,20 @@ This repo is part of the [Certified Cloud Native Applied Generative AI Engineer]
 
 The main focus in this course will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI and using AI to write Python Programs. We will then move to understanding the basics of GenAI and Prompt Engineering. In the end of the program we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. 
 
+![The Top Programming Language on Github in Python]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-top-programming-languages.png?w=1400) "Python is Number 1")
+
+https://github.blog/wp-content/uploads/2024/10/GitHub-Octoverse-2024-top-programming-languages.png?w=1400
+
+## Additional Certification Program Material
+
+[Program Podcast](https://youtu.be/ViRWA4wLI8k)
+
+[Agentic AI Detailed Intro Presentation](https://bit.ly/4hTqT4G)
+
+[Program Review by ChatGPT](https://chatgpt.com/share/6732a6f1-a3c4-8001-99cb-1b272c3b3881)
+
+Read this article to understand [The AI agents stack](https://www.letta.com/blog/ai-agents-stack)
+
 ## We will following this course to get started [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) by Andrew Ng
 
 ## We will be using Google Colab for development:
