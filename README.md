@@ -1,68 +1,45 @@
-# Learn Cloud Native Modern AI Python
+# Learn Modern AI Python
 
 This repo is part of the [Certified Cloud Native Applied Generative AI Engineer](https://docs.google.com/document/d/15usu1hkrrRLRjcq_3nCTT-0ljEcgiC44iSdvdqrCprk/edit?usp=sharing) program. It covers the first quarter of the course work:
 
-## Quarter 1: Fundamentals of Prompt Engineering, Docker, GitHub, and Modern Python Programming
+### AI-101: Modern AI Python Programming
 
-We begin the course by understanding the basics of GenAI and Prompt Engineering. Then we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. The main focus will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI. **We will be using ChatGPT extensively as our Personal Python Coding Mentor**.
+The main focus in this course will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI and using AI to write Python Programs. We will then move to understanding the basics of GenAI and Prompt Engineering. In the end of the program we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. 
 
-Note:
+## We will following this course to get started [AI Python for Beginners](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/) by Andrew Ng
 
-Docker has market share of 82.63% in containerization market. Gartner® estimates that 90% of global organizations will be running containerized applications in production by 2026.
+## We will be using Google Colab for development:
 
-### Tools to Install
+Google Colab is a free, cloud-based Jupyter Notebook service developed by Google. It enables users to write and execute Python code through a web browser, offering seamless integration with Google Drive for easy storage and sharing of notebooks. Colab is particularly beneficial for tasks in machine learning, data analysis, and education, as it provides access to powerful computing resources, including GPUs and TPUs, without requiring any local setup. 
 
-[Install ChatGPT on Your Mobile and Desktop](https://openai.com/chatgpt/download/)
+**Key Features of Google Colab:**
 
-Currently it is not availble for Windows. Therefore, use the [web](https://chatgpt.com/) version on Windows for now. 
+- **No Setup Required:** Users can start coding immediately without the need to install any software or manage local environments. 
 
-[VS Code](https://code.visualstudio.com/)
+- **Free Access to Computing Resources:** Colab offers free access to computing resources, including GPUs and TPUs, facilitating the execution of complex computations and machine learning models. 
 
-[Docker Desktop](https://www.docker.com/products/docker-desktop/)
+- **Collaboration:** Notebooks can be easily shared and collaboratively edited, similar to Google Docs, enhancing teamwork and knowledge sharing. 
 
-[Dev Containers](https://code.visualstudio.com/docs/devcontainers/containers)
+- **Integration with Google Drive:** Notebooks are stored in Google Drive, allowing for straightforward organization and access across devices. 
 
-[Python in Visual Studio Code](https://code.visualstudio.com/docs/languages/python)
+- **Support for Various Libraries:** Colab supports popular Python libraries such as TensorFlow, Keras, and NumPy, making it versatile for various data science and machine learning projects. 
 
-[GitHub Desktop](https://desktop.github.com/)
+**Recent Developments:**
 
-[Ubuntu Image to Learn Linux](https://hub.docker.com/_/ubuntu)
+Recently, Google expanded Colab's AI-powered code assistance features to all users in eligible locales, including those on free plans. These features assist in generating code from natural language prompts and provide a code-assisting chatbot to enhance programming efficiency and comprehension. 
 
+**Getting Started with Google Colab:**
 
-Notes: 
+To begin using Google Colab:
 
-1. We will be doing all our Python development inside Docker Containers. 
-2. Students will be using GitHub from day one.
-3. We are using Ubuntu from start, latter we will also be use it to learn robotics. 
+1. **Access Colab:** Navigate to the [Google Colab website](https://colab.research.google.com/).
 
+2. **Create a New Notebook:** Click on "File" > "New Notebook" to create a new Jupyter Notebook.
 
+3. **Write and Execute Code:** Enter your Python code in the code cells and execute them to see the results.
 
-### Study Material
+4. **Save and Share:** Your notebooks are automatically saved in your Google Drive, and you can share them with others by clicking the "Share" button.
 
-[Prompt Guide](https://inthecloud.withgoogle.com/gemini-for-google-workspace-prompt-guide/dl-cd.html)
+For more detailed information and tutorials, refer to the [Colaboratory Frequently Asked Questions](https://research.google.com/colaboratory/faq.html) and the [Colab Help Center](https://support.google.com/colab/).
 
-[Docker Desktop](https://docs.docker.com/desktop/)
-
-[Docker Deep Dive: Zero to Docker in a single book](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1916585256/ref=sr_1_1_sspa)
-
-[Docker Cheat Sheet: All the Most Essential Commands in One Place + Downloadable PDF](https://www.hostinger.com/tutorials/docker-cheat-sheet)
-
-[60 Essential Linux Commands + Free Cheat Sheet](https://www.hostinger.com/tutorials/linux-commands)
-
-[Getting started with GitHub Desktop](https://docs.github.com/en/desktop/overview/getting-started-with-github-desktop)
-
-[Python Crash Course, 3rd Edition: A Hands-On, Project-Based Introduction to Programming 3rd Edition](https://www.amazon.com/Python-Crash-Course-Eric-Matthes/dp/1718502702/ref=sr_1_1)
-
-[mypy documentation](https://mypy.readthedocs.io/en/stable/index.html)
-
-[Type hints cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)
-
-[Poetry](https://python-poetry.org/)
-
-[Streamlit: A faster way to build and share data apps](https://streamlit.io/)
-
-Note: We will be using Type Hints is all our Python Development.
-
-### Projects
-
-[The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
+Google Colab is a valuable tool for both beginners and professionals in data science and machine learning, offering an accessible platform to develop and share projects efficiently. 
