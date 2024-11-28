@@ -4,7 +4,7 @@ This repo is part of the [Certified Cloud Native Applied Generative AI Engineer]
 
 ### AI-101: Modern AI Python Programming
 
-The main focus in this course will be on mastering the fundamentals of Modern Python with Typing, the go-to language for AI and using AI to write Python Programs. We will then move to understanding the basics of GenAI and Prompt Engineering. In the end of the program we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. 
+The main focus in this course will be on mastering the fundamentals of Modern Python with Typing using Google Colab, the go-to language for AI and using AI to write Python Programs. We will then move to understanding the basics of GenAI and Prompt Engineering. In the end of the program we will understand the basics of Linux, Docker, VSCode, Devcontainer, and GitHub. 
 
 ![Python](top-python.webp)
 
