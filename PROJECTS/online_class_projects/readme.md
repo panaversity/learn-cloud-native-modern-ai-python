@@ -20,7 +20,7 @@ Check directory:
 
 01_basics
 
-02_advanced
+02_intermediate
 
 Once we have covered the basic and intermediate projects we will do the following advanced projects in online classes:
 
