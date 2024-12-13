@@ -1,32 +1,10 @@
-## Python Project Instructions
+## Project to be Submitted by the Students
 
-## Google Colab
-
-Google Colab will be used by students to complete all assignments and projects
-
-https://colab.research.google.com/
-
-We will use the Colab code generation capabilities and also it's ability to explain code.
-
-## Online Class Projects
-
-Essential Projects to be discussed/completed in Online Classes. Check directory: 
-
-online_class_projects
-
-## Homework Projects
-
-Homework python projects to Master your skillset. Must be practiced by all students in homework. Check directory: 
-
-homework_projets
-
-## Projects to be Submitted by Students
-
-AI-101 students will submit the projects in the following form:
+AI-101 students will complete these project on their own and submit the projects in the following form:
 
 https://forms.gle/VPw9wnmt1j8e7bnb6
 
-Project Checking: Your Instructors will check your project on the due date in onsite class. The due date will be selected by the onsite class instructors. **You will be removed from the class until you successfully complete your project and submit it.**
+Project Checking: Your Instructors will check your project on the due date in onsite class. The due date will be announced by the onsite class instructors. **You will be removed from the class until you successfully complete your project and submit it.**
 
 You are required to complete and submit the following projects:
 
@@ -47,3 +25,11 @@ You are required to complete and submit the following projects:
 [Project 8: Create a Python Streamlit BMI Calculator Web App in Just 6 Minutes](https://www.youtube.com/watch?v=Z4uhilpTe9k&list=PLTsu3dft3CWhBViLMhL0Aqb75rkSz_CL-&index=13)
 
 [Project 9: Build a Python Website in 15 Minutes With Streamlit](https://www.youtube.com/watch?v=2siBrMsqF44)
+
+## Google Colab
+
+Google Colab will be used by students to complete all assignments and projects
+
+https://colab.research.google.com/
+
+We will use the Colab code generation capabilities and also it's ability to explain code.
