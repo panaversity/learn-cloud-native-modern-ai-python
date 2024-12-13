@@ -8,8 +8,36 @@ The main focus in this course will be on mastering the fundamentals of Modern Py
 
 ![Python](top-python.webp)
 
-All AI-101 students also take this free recorded online course:
-https://www.deeplearning.ai/short-courses/ai-python-for-beginners/
+### Online AI-101 Project Classes every Tuesday 8:00 pm
+
+Instructors: Hamza and Najam
+
+In these online classes the main focus will be on doing the following projects in class:
+https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/online_class_projects
+
+The Zoom Link for the online classes:
+https://us06web.zoom.us/j/85338730622?pwd=KBNfeMPBhDTN7GMi7lH9K5UN6APAt9.1
+
+You can also watch on YouTube if the Zoom class is full also recorded videos: 
+https://www.youtube.com/@panaverse
+
+### Compulsory Projects for AI-101 Modern AI Python Students
+
+All AI-101 students must complete these compulsory projects, or they will be removed from class until they complete and submit them:
+
+https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/projects_to_be_submitted_by_students
+
+Your Instructors will assign a due date for the projects in class. You will submit your project in this form:
+
+https://forms.gle/VPw9wnmt1j8e7bnb6
+
+The instructors will check your project in the onsite class on the due date. If you do not submit on the due date, you will be removed from
+the class until you successfully complete your project and submit it.
+
+For practice you should do the following homework projects (not to be submitted only for practice in class and at home):
+https://github.com/panaversity/learn-modern-ai-python/tree/main/PROJECTS/homework_projects
+
+
 
 
 ## Additional Certification Program Material
