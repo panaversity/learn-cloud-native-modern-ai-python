@@ -1,4 +1,4 @@
-## Project to be Submitted by the Students
+## Compulsory Project to be Submitted by the Students
 
 AI-101 students will complete these project on their own and submit the projects in the following form:
 
