@@ -20,11 +20,17 @@ Homework python projects to Master your skillset. Must be practiced by all stude
 
 homework_projets
 
-## Projects to be Submitted by Students
+## Projects to be Submitted by PIAIC Students
 
 AI-101 students will submit the projects in the following form:
 
-https://forms.gle/VPw9wnmt1j8e7bnb6
+**For PIAIC Students**  = https://forms.gle/VPw9wnmt1j8e7bnb6
+
+## Projects to be Submitted by Governor House Students
+
+AI-101 students will submit the projects in the following form:
+
+**For Governor House Students** = https://forms.gle/CixPAnwR726zuosK6
 
 Project Checking: Your Instructors will check your project on the due date in onsite class. The due date will be selected by the onsite class instructors. **You will be removed from the class until you successfully complete your project and submit it.**
 
